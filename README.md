@@ -17,6 +17,8 @@ This project is mainly implement using the following technologies
 - Javascript
 - HTML
 - CSS
+- Maven
+- Docker
 
 ---
 
